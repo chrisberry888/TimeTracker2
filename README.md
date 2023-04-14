@@ -1,2 +1,2 @@
 # TimeTracker2
-I messed up the first one oops
+Second draft of the time tracker.
